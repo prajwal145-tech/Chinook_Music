@@ -14,7 +14,19 @@
 - Writing optimized SQL queries for business intelligence.  
 - Integrating SQL with Python for analytics.  
 - Building a multi-panel dashboard for quick decision-making.  
-- Translating raw data into KPIs and insights.  
+- Translating raw data into KPIs and insights.
+
+## Key Features
+
+- Automated SQL Queries: Modular function to fetch data directly from SQLite.
+- Best-Selling Products Analysis: Top 15 tracks by sales and revenue.
+- Sales by Country: Customer count, revenue, orders, and average order size.
+- Trend Analysis: Monthly and yearly revenue trends with visualization.
+- Genre Performance: Market share, revenue, and track counts per genre.
+- Customer Analytics: Ranks customers by spending and identifies churn risk.
+- Pricing Strategy Insights: Categorizes tracks as Premium, Standard, or Budget.
+- Dashboard Visualizations: Multi-panel dashboard of all KPIs using Matplotlib.
+- KPI Reporting: Summarized metrics for decision-making.
 
 ## About Elevvo  
 
